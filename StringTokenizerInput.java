@@ -1,3 +1,11 @@
+/**
+ * Problem Definition:
+ * Create a program that takes a line of input containing integers separated by space.
+ * The program should:
+ * 1. Prompt the user to enter space-separated integers.
+ * 2. Print it as an array of integers.
+ */
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;

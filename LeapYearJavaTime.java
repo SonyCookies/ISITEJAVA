@@ -1,3 +1,11 @@
+/*
+ * Problem Definition:
+ * Create a program that determines whether a given year is a leap year.
+ * The program should:
+ * 1. Prompt the user to enter a year.
+ * 2. Print whether the year is a leap year or not.
+ */
+
 import java.io.*;
 import java.util.*;
 import java.time.Year;
